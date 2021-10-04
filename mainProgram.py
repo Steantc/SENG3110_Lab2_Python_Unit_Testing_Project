@@ -1,3 +1,9 @@
+##This is not the main program DO NOT RUN FROM THIS PROGRAM. PLEASE RUN FROM geometry_calculator_AS.py
+
+
+
+
+
 import sphere
 def main():
 
